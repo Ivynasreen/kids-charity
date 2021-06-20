@@ -1,0 +1,14 @@
+.carousel img {
+    opacity: 0.8;
+}
+h1 {
+    font-weight: bold;
+  
+}
+.carousel-caption {
+    text-align: center;
+    top: 50% ;
+    transform: translateY(-50%);
+    bottom: initial;
+    color: black;
+}
